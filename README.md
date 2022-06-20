@@ -1,4 +1,4 @@
-# Speech_to_Text_Summarizer
+# Speech-to-Text-Summarizer
 
 * Transcription of videos are done to extract text from videos.
 * Video Source - YouTube
